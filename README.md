@@ -1,4 +1,4 @@
-# AWS_spot_instance_forecasting
+# AWS Spot Instance Forecasting
 
 We retrieved Amazon Spot Price data which was collected by a third-party person.
 • Data has 5 fields <Timestamp, ProductDescription, InstanceType, SpotPrice,
