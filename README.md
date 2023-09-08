@@ -17,7 +17,7 @@ This code contains a jupyter notebook that contains code and plots for,
 •	Data fetching using boto3
 •	Exploratory data analysis
 •	Data insights
-And the best part! The python file "spot_price_predict.py" contains the code for,
+And the best part! The python file "Spot_instance.ipynb" contains the code for,
 •	Data import
 •	Feature extraction and engineering
 •	Data preparation
